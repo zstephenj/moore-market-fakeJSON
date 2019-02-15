@@ -1,6 +1,7 @@
 {
     "products": [
         {
+            "id": 1,
             "name": "TestProduct1Name",
             "description": "TestProduct1Description",
             "categoryID": 1,
@@ -21,6 +22,7 @@
         },
         
         {
+            "id": 2,
             "name": "TestProduct2Name",
             "description": "TestProduct2Description",
             "categoryID": 2,
