@@ -44,8 +44,8 @@
         
         {
             "id": 3,
-            "name": "TestProduct3Name Item Always Out of Stock",
-            "description": "TestProduct3Description",
+            "name": "3Name Item Always Out of Stock",
+            "description": "3Description",
             "categoryID": 2,
             "category": {
                 "id": 2,
