@@ -45,7 +45,7 @@
         {
             "id": 3,
             "name": "TestProduct3Name Item Always Out of Stock",
-            "description": "TestProduct3Description I will always be out of stock.I will always be out of stock.",
+            "description": "TestProduct3Description I will always be out of stock.",
             "categoryID": 2,
             "category": {
                 "id": 2,
