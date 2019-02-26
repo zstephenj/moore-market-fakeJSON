@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Test Product Name 1",
             "description": "TestProduct1Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-            "categoryID": 1,
+            "categoryId": 1,
             "category": {
                 "id": 1,
                 "name": "TestCategory1"
@@ -25,7 +25,7 @@
             "id": 2,
             "name": "TestProduct2Name",
             "description": "TestProduct2Description",
-            "categoryID": 2,
+            "categoryId": 2,
             "category": {
                 "id": 2,
                 "name": "TestCategory2"
@@ -46,7 +46,7 @@
             "id": 3,
             "name": "3Name Out of Stock",
             "description": "3Descr",
-            "categoryID": 2,
+            "categoryId": 2,
             "category": {
                 "id": 2,
                 "name": "TestCategory2"
